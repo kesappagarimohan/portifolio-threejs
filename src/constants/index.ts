@@ -1,13 +1,12 @@
 import {
   careatorlogo,
   css,
-  docker,
-  figma,
   git,
   html,
   javascript,
   jazz,
   mongodb,
+  nestjs,
   nodeDeveloper,
   nodejs,
   piktorlabslogo,
@@ -84,28 +83,26 @@ const technologies = [
     icon: tailwind,
   },
   {
-    name: "Node JS",
-    icon: nodejs,
-  },
-  {
-    name: "MongoDB",
-    icon: mongodb,
-  },
-  {
     name: "Three JS",
     icon: threejs,
   },
   {
+    name: "Node JS",
+    icon: nodejs,
+  },
+  {
+    name: "Nest Js",
+    icon: nestjs,
+  },
+
+  {
+    name: "MongoDB",
+    icon: mongodb,
+  },
+
+  {
     name: "git",
     icon: git,
-  },
-  {
-    name: "figma",
-    icon: figma,
-  },
-  {
-    name: "docker",
-    icon: docker,
   },
 ];
 

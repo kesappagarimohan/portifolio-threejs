@@ -36,6 +36,7 @@ import tripguide from "./tripguide.png";
 
 import careatorlogo from "./careatorlogo.jpg";
 import jazz from "./jazz.jpg";
+import nestjs from "./nestjs.svg";
 import piktorlabslogo from "./piktorlabslogo.jpg";
 import premia from "./premia.png";
 import profile from "./profile.jpg";
@@ -63,6 +64,7 @@ export {
   mlogo,
   mobile,
   mongodb,
+  nestjs,
   nodeDeveloper,
   nodejs,
   piktorlabslogo,
