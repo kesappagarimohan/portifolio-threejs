@@ -160,7 +160,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success",
+      "I've never met a web developer whose exceptional teamwork and unwavering commitment greatly contribute to our team's success.",
     name: "Arun",
     designation: "Fullstack Developer",
     company: "UST",
